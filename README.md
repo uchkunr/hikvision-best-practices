@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.hikvision.com/"><img src="https://img.shields.io/badge/protocol-ISAPI-E60012?logo=hikvision" alt="ISAPI Protocol" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC--BY--4.0-lightgrey" alt="License: CC BY 4.0" /></a>
 </p>
 
 ## Overview
