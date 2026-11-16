@@ -1,0 +1,17 @@
+{
+  "name": "hikvision-isapi-examples",
+  "private": true,
+  "type": "module",
+  "description": "Runnable ISAPI examples for Hikvision devices",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^7.0.2"
+  }
+}
