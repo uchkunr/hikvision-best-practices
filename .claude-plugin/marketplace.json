@@ -1,0 +1,16 @@
+{
+  "name": "hikvision-best-practices",
+  "description": "Hikvision ISAPI skill for Claude Code",
+  "owner": {
+    "name": "Uchkun Rakhimov",
+    "url": "https://github.com/uchkunr"
+  },
+  "plugins": [
+    {
+      "name": "hikvision-isapi",
+      "source": "./",
+      "description": "Build and debug Hikvision ISAPI integrations: Digest auth, access control, events, video and PTZ",
+      "category": "development"
+    }
+  ]
+}

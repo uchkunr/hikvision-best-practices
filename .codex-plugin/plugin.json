@@ -1,0 +1,21 @@
+{
+  "name": "hikvision-isapi",
+  "version": "1.0.0",
+  "description": "Build and debug Hikvision ISAPI integrations: Digest auth, access control, events, video and PTZ",
+  "author": {
+    "name": "Uchkun Rakhimov",
+    "url": "https://github.com/uchkunr"
+  },
+  "homepage": "https://github.com/uchkunr/hikvision-best-practices",
+  "repository": "https://github.com/uchkunr/hikvision-best-practices",
+  "license": "MIT",
+  "keywords": ["hikvision", "isapi", "access-control", "cctv", "digest-auth"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hikvision ISAPI",
+    "shortDescription": "Hikvision device integrations over ISAPI",
+    "developerName": "Uchkun Rakhimov",
+    "category": "Developer Tools",
+    "websiteURL": "https://github.com/uchkunr/hikvision-best-practices"
+  }
+}

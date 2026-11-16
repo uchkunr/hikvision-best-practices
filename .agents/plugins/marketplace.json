@@ -1,0 +1,20 @@
+{
+  "name": "hikvision-best-practices",
+  "interface": {
+    "displayName": "Hikvision Best Practices"
+  },
+  "plugins": [
+    {
+      "name": "hikvision-isapi",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
